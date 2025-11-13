@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 🌱 I’m currently learning **TypeScript, Vue.js**
+- 🌱 I’m currently learning **Nuxt.js**
 
 - 📫 How to reach me **: Nzosim on discord**
 <p align="left">
