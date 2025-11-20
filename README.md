@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nzosim</h1>
-<h3 align="center">I'm a computer science student</h3>
+<h1 align="center">Hey 👋, I'm Nzosim</h1>
+<h3 align="center">Engineer Student in Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nzosim&label=Profile%20views&color=ff0000&style=plastic" alt="nzosim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nzosim&label=Profile%20views&color=3B2077&style=plastic" alt="nzosim" /> </p>
 
-- 🔭 I’m currently working on **AlClate**
+- 🔭 I’m currently working on **Finlook**
+  > A simple and intuitive SaaS to manage your finances
 
-- 👯 I’m looking to collaborate on **projects**
+- 📫 Want to know more?
+  > Check out my portfolio for my projects, experience, and ways to reach me: [simoninenzo.fr](https://www.simoninenzo.fr)
 
-- 🌱 I’m currently learning **Nuxt.js**
-
-- 📫 How to reach me **: Nzosim on discord**
 <p align="left">
 </p>
 
