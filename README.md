@@ -1,4 +1,4 @@
-<h1 align="center">**Nzosim**</h1>
+<h1 align="center"><b>Nzosim</b></h1>
 <h3 align="center">Engineer Student in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzosim&label=Profile%20views&color=3B2077&style=plastic" alt="nzosim" /> </p>
