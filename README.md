@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzosim&label=Profile%20views&color=3B2077&style=plastic" alt="nzosim" /> </p>
 
-- 🔭 I’m currently working on **Finlook**
+- 🔭 I’m currently working on **[Finlook](https://www.finlook.fr)**
   > A simple and intuitive SaaS to manage your finances
 
 - 📫 Want to know more?
