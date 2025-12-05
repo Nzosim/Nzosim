@@ -25,7 +25,7 @@
 <h4 align="left">CMS:</h4>
 
 <h4 align="left">BDD:</h4>
-<a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://icones8.fr/icons/set/microsoft-sql-server" alt="sql" width="40" height="40"/> </a>
+<a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/1200/sql.jpg" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 <br /><br />
