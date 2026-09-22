@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzosim&label=Profile%20views&color=3B2077&style=plastic" alt="nzosim" /> </p>
 
 - 🔭 I’m currently working on :
-  > **[MakeUrMenu](https://www.makeurmenu.fr)** - Create your restaurant’s online menu in 5 minutes
-  > **[MakeUrShop](https://www.makeurshop.fr)** - Create your online store in 5 minutes, for free
+  > **[MakeUrMenu](https://www.makeurmenu.fr)** - Create your restaurant’s online menu in 5 minutes<br>
+  > **[MakeUrShop](https://www.makeurshop.fr)** - Create your online store in 5 minutes, for free<br>
   > **[Finlook](https://www.finlook.fr)** - A simple and intuitive SaaS to manage your finances
+
 
 - 📫 Want to know more?
   > Check out my **[portfolio](https://www.simoninenzo.fr)** for my projects, experience, and ways to reach me
